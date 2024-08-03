@@ -1,4 +1,4 @@
-# Kryptrade
+# KrypTrade
 KryptTrade is a Spring Boot-based cryptocurrency trading application designed to simplify trading and portfolio management. It provides functionalities for trading cryptocurrencies, tracking portfolio performance, and ensuring secure access through integrated security features.
 
 ## Prerequisites
