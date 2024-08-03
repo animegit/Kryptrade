@@ -1,6 +1,5 @@
 # Kryptrade
-
-Kryptrade is a Spring Boot application designed for [insert brief description of the application’s purpose and functionality]. This guide will help you set up and configure the application.
+KryptTrade is a Spring Boot-based cryptocurrency trading application designed to simplify trading and portfolio management. It provides functionalities for trading cryptocurrencies, tracking portfolio performance, and ensuring secure access through integrated security features.
 
 ## Prerequisites
 
@@ -35,7 +34,7 @@ razorpay.api.secret=your_razorpay_api_secret
 stripe.api.key=your_stripe_api_key
  ```
 ## Database Design
-The database design for Kryptrade is documented in the [db.md](db.md)file. This file includes details about the database schema, tables, relationships, and other relevant information needed to set up and understand the database structure.
+The database design for Kryptrade is documented in the [db.md](db.md) file. This file includes details about the database schema, tables, relationships, and other relevant information needed to set up and understand the database structure.
 
 You can find db.md in the root directory of the project
 ## Building The Application
